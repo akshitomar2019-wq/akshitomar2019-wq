@@ -13,7 +13,7 @@ I build machine learning projects that solve real-world problems, from salary pr
 
 ##  Featured Projects
 
-- **[Salary Prediction Model](https://github.com/akshitomar2019-wq/Salaryprediction)**: ML regression model with a Flask REST API to predict salaries from multiple input features.
+- **[Salary Prediction Model](https://github.com/akshitomar2019-wq/Salarypredictionmodel)**: ML regression model with a Flask REST API to predict salaries from multiple input features.
 - **[Mental Health Score Predictor](https://github.com/akshitomar2019-wq/Mental-Health-Score-Predictor)**: ML model that predicts mental health scores from lifestyle factors.
 
 ##  Education
