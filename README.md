@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Akshita 
 
-<!--
-**akshitomar2019-wq/akshitomar2019-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (AIML) undergraduate | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I build machine learning projects that solve real-world problems, from salary prediction to mental health score analysis. Currently looking for **Data Science / ML internships and entry-level roles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+- **Languages:** Python, C, C++, SQL, HTML, CSS, JavaScript
+- **ML & Data:** Pandas, NumPy, Matplotlib, Seaborn, Supervised Learning (Regression, Classification)
+- **Frameworks & Tools:** Flask, Git, GitHub, Google Cloud Platform, VS Code
+- **Problem Solving:** DSA using C++
+
+##  Featured Projects
+
+- **[Salary Prediction Model](https://github.com/akshitomar2019-wq/Salaryprediction)**: ML regression model with a Flask REST API to predict salaries from multiple input features.
+- **[Mental Health Score Predictor](https://github.com/akshitomar2019-wq/Mental-Health-Score-Predictor)**: ML model that predicts mental health scores from lifestyle factors.
+
+##  Education
+
+B.Tech CSE (AIML), Lloyd Institute of Management and Technology, Greater Noida (2023 – 2027)
+
+##  Certifications
+
+- IBM Virtual Internship (2025)
+- Fundamentals of AI and ML, AWS (2025)
+- Digital Application Fundamentals, NASSCOM (2025)
+
+##  Connect with me
+
+- LinkedIn: [Akshita Tomar](https://www.linkedin.com/in/akshita-tomar-284413308)
+- Email: akshitomar2019@gmail.com
